@@ -33,7 +33,6 @@ img {
 }
 
 header {
-  /*background-color: #cfd8dc;*/
   padding: 2em 0;
   background-clip: padding-box;
 }
@@ -154,10 +153,6 @@ nav a {
 .encourage {
   text-align: center;
 }
-
-/*.container5 {
-  display: flex;
-}*/
 
 .section-a,
 .section-b {
